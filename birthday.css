@@ -12,12 +12,15 @@ body{
     margin-top: 50px;
     margin-left: 200px;
     opacity: 70%;
+	width: 500px;
+	height: 400px;
 }
 .container1{
 	padding: 10px;
 	gap: 30px;
 	display: flex;
     justify-content: center;
+	margin-top: 200px;
 }
 .foto{
     margin-top: 30px;
@@ -45,7 +48,9 @@ body{
 }
 .audio{
     justify-content: center;
-opacity: 95%;
+	opacity: 95%;
+	height: 100px;
+	width: 500px;
 }
 .kata{
 	font-weight: bold;
@@ -54,6 +59,7 @@ opacity: 95%;
     opacity: 0%;
 }
 .container3{
+	margin-top: 200px;
 	padding: 10px;
 	gap: 30px;
 	display: grid;
