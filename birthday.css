@@ -16,7 +16,7 @@ body{
 .container1{
 	padding: 10px;
 	gap: 30px;
-	display: grid;
+	display: flex;
     justify-content: center;
 }
 .foto{
@@ -32,12 +32,12 @@ body{
 	width: 100%;
 	border-radius: 25px;
 	margin-bottom: 10px;
-    width:350px;
-	height:550px;
+    width:600px;
+	height:1000px;
 
 }
 .container2{
-    margin-top: 30px;
+    margin-top: 500px;
 	padding: 0px;
 	display: flex;
     justify-content: center;
@@ -45,7 +45,7 @@ body{
 }
 .audio{
     justify-content: center;
-
+opacity: 95%;
 }
 .kata{
 	font-weight: bold;
@@ -64,8 +64,8 @@ body{
 	box-shadow: 0 5px 10px #100404;
 	text-align: Center;
 	border-radius: 15px;
-	width: 350px;
-	height: 500px;
+	width: 550px;
+	height: 600px;
 	padding: 30px;
     opacity: 95%;
     color:rgb(211, 218, 181);
@@ -73,7 +73,7 @@ body{
 .ucapan img {
     width: 100%;
 	margin-bottom: 10px;
-    width: 250px;
+    width: 350px;
     opacity: 100%;
     border-radius: 10px;
     box-shadow: 0 5px 10px black;
@@ -83,8 +83,8 @@ body{
 	box-shadow: 0 5px 10px #100404;
 	text-align: Center;
 	border-radius: 15px;
-	width: 350px;
-	height: 680px;
+	width: 550px;
+	height: 800px;
 	padding: 30px;
     opacity: 95%;
     color:rgb(211, 218, 181);
@@ -92,7 +92,7 @@ body{
 .ucapan1 img {
     width: 100%;
 	margin-bottom: 10px;
-    width: 250px;
+    width: 350px;
     opacity: 100%;
     border-radius: 10px;
     box-shadow: 0 5px 10px black;
