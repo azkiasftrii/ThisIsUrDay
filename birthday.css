@@ -5,6 +5,7 @@ body{
     background-repeat: no-repeat;
 	font-family:Time New Roman;
     display: grid;
+	min-height: 100px;
 }
 
 .audio {
